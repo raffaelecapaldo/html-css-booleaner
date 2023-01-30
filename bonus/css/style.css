@@ -1,0 +1,115 @@
+* {
+    margin:0;
+}
+
+/* BACKGROUND HEADER */
+nav {
+    background-image: url(../img/pattern.png);
+    background-color:dodgerblue;
+    background-attachment: fixed;
+    background-position:top;
+    background-position-x:130px;
+    height: 180px;
+    position:relative;
+    
+}
+
+/* LOGO HEADER */
+nav div {
+    width:18%;
+    position:absolute;
+    bottom:5%;
+    left:1%;
+}
+
+main
+{
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+/* ARTICLE TITLE */
+section h1
+{
+    font-size:30px;
+}
+
+/* ARTICLE INFO */
+.info 
+{
+    color:grey;
+    font-size:20px;
+    font-weight:600;
+}
+
+/* AUTHOR TEXT COLOR */
+.info span {
+    color:#49B8E9
+
+}
+
+/* ARTICLE DATE STYLE */
+.date{
+    font-size:15px;
+    color:grey;
+    padding-bottom:1%;
+   
+}
+
+/* TEXT SIZE IMAGE CAPTIONS */
+.imgcaption
+{
+    font-size:14px;
+    margin-bottom:1%
+}
+
+/* YELLOW HIGHLIGHTING */
+.highlighting {
+    background-color:yellow;
+}
+
+/* ARTICLE ELEMENT DIVISION */
+.marginsection
+{
+margin-bottom:1%;
+}
+
+ /* STYLE OF THE TABLE */
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-spacing:0;
+}
+thead {
+    background-color:#20a9e5;
+    color:white;
+    text-align:left;
+    
+}
+
+.lightblue {
+    background-color:#b1e5f2;
+}
+
+/* STYLING OF THE RELATED CONTENT SECTION */
+aside strong
+{
+    font-size:24px;
+    color:grey;
+}
+
+.article {
+    background-image: url(../img/monitor.jpg);
+    height:208px;
+    width: 312px;
+    margin-top:1%;
+    color:white;
+    font-size:25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.two{
+    background-image: url(../img/graph.jpg);
+}
