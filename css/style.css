@@ -20,14 +20,14 @@ nav div {
     position:absolute;
     bottom:5%;
     left:1%;
-    
 }
 
-.headerarticle
+main
 {
     padding-top:1%;
     margin-left:1%;
 }
+
 
 /* ARTICLE TITLE */
 section h1
@@ -53,5 +53,12 @@ section h1
 .date{
     font-size:15px;
     color:grey;
+    padding-bottom:1%;
    
+}
+
+/* TEXT SIZE IMAGE CAPTIONS */
+.imgcaption
+{
+    font-size:14px;
 }
