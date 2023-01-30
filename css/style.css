@@ -2,6 +2,7 @@
     margin:0;
 }
 
+/* BACKGROUND HEADER */
 nav {
     background-image: url(../img/pattern.png);
     background-color:dodgerblue;
@@ -9,4 +10,14 @@ nav {
     background-position:top;
     background-position-x:130px;
     height: 180px;
+    position:relative;
 }
+
+/* LOGO HEADER */
+nav div {
+    width:18%;
+    position:absolute;
+    bottom:5%;
+    left:1%;
+}
+
