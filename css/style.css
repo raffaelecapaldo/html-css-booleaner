@@ -61,4 +61,15 @@ section h1
 .imgcaption
 {
     font-size:14px;
+    margin-bottom:1%
+}
+
+/* YELLOW HIGHLIGHTING */
+.highlighting {
+    background-color:yellow;
+}
+
+.marginsection
+{
+margin-bottom:1%;
 }
